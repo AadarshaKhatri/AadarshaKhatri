@@ -8,8 +8,8 @@ Aadarsha Khatri is a recent high school graduate based in Nepal and an aspiring 
 
 # Currently Learning
 
-- Pytorch 
-- Integrating ML with react  
-- Deep Learning Models  
+- Arduino, sensors, and basic components 
+- Embedded programming with C/C++
+- Exploring how software can interact with the hardware system
 
 ---
