@@ -1,6 +1,6 @@
 # 👋
 
-Aadarsha Khatri is a recent high school graduate based in Nepal and an aspiring technologist who began his career focusing on frontend development, gaining experience in building intuitive and responsive user interfaces. Over time, his passion has expanded to include robotics, artificial intelligence, and machine learning, where he aims to merge software skills with hardware to create intelligent and impactful solutions. Currently entering university, Aadarsha is eager to deepen his knowledge in these cutting-edge fields, seeking opportunities that challenge him to grow, collaborate, and innovate within the tech industry.
+Aadarsha Khatri is an aspiring engineer originally from Nepal and currently studying in Australia. He first became interested in technology through frontend development, where he learned the fundamentals of building and designing user interfaces and understanding how software interacts with users. Over time, his interests shifted toward robotics and embedded systems, where he began exploring how software can control and interact with physical hardware. Over the past year, he has been experimenting with Arduino-based systems, sensors, motors, and small robotic platforms, gaining practical experience through building projects and troubleshooting real hardware problems. He is particularly interested in how robotics, artificial intelligence, and software engineering can come together to create intelligent machines. As he continues his university studies, Aadarsha is focused on strengthening his understanding of robotics systems and developing the skills needed to build reliable hardware–software solutions.
 
 *— ChatGPT*
 
@@ -8,8 +8,9 @@ Aadarsha Khatri is a recent high school graduate based in Nepal and an aspiring 
 
 # Currently Learning
 
-- Arduino, sensors, and basic components 
-- Embedded programming with C/C++
-- Exploring how software can interact with the hardware system
+- Microcontrollers, sensors, and robotic hardware systems
+- Robotics development concepts using ROS2
+- How software systems interact with physical hardware and sensors
+- Foundations of robotics and intelligent systems
 
 ---
