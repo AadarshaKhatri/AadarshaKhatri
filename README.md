@@ -1,6 +1,7 @@
 # 👋
 
-Aadarsha Khatri is an aspiring engineer originally from Nepal and currently studying in Australia. He first became interested in technology through frontend development, where he learned the fundamentals of building and designing user interfaces and understanding how software interacts with users. Over time, his interests shifted toward robotics and embedded systems, where he began exploring how software can control and interact with physical hardware. Over the past year, he has been experimenting with Arduino-based systems, sensors, motors, and small robotic platforms, gaining practical experience through building projects and troubleshooting real hardware problems. He is particularly interested in how robotics, artificial intelligence, and software engineering can come together to create intelligent machines. As he continues his university studies, Aadarsha is focused on strengthening his understanding of robotics systems and developing the skills needed to build reliable hardware–software solutions.
+Aadarsha Khatri is a second-year engineering student originally from Nepal, with a strong interest in industrial robotics, automation engineering, autonomous systems, and intelligent machines. He is particularly interested in how robotics, control systems, sensors, software, and artificial intelligence can be integrated to solve real-world engineering problems. Through his studies and projects, he continues to build practical experience in robotics, automation, embedded systems, and intelligent system development, with the goal of pursuing a career in robotics and automation engineering.
+
 
 *— ChatGPT*
 
@@ -8,9 +9,10 @@ Aadarsha Khatri is an aspiring engineer originally from Nepal and currently stud
 
 # Currently Learning
 
-- Microcontrollers, sensors, and robotic hardware systems
+- Microcontrollers, sensors, PLC and robotic hardware systems
 - Robotics development concepts using ROS2
-- How software systems interact with physical hardware and sensors
-- Foundations of robotics and intelligent systems
+- SolidWorks, mechanical design, dynamics, and robotic system modelling
+- SLAM, mapping, and autonomous navigation
+- Machine learning and intelligent systems
 
 ---
